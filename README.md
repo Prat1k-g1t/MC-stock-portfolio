@@ -1,1 +1,1 @@
-# MC_stock_portfolio
+# MC-stock-portfolio
